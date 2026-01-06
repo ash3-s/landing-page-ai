@@ -25,14 +25,14 @@ export default function ConsultationPage() {
               Request a <span className="italic">Consultation</span>
             </h1>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              Scale your vision with Synaptive. Our senior engineers and AI researchers are ready to architect your next
+              Scale your vision with Merqone. Our senior engineers and AI researchers are ready to architect your next
               breakthrough.
             </p>
 
             <div className="space-y-8 mt-12">
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-widest text-primary mb-2">Direct Line</h4>
-                <p className="text-lg font-serif">strategy@synaptive.com</p>
+                <p className="text-lg font-serif">strategy@merqone.com</p>
               </div>
               <div>
                 <h4 className="text-xs font-bold uppercase tracking-widest text-primary mb-2">Global HQ</h4>

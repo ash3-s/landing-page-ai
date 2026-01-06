@@ -19,7 +19,7 @@ export default function AboutPage() {
             Engineering the <span className="italic">Possible</span>
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground leading-relaxed mb-16">
-            Synaptive was founded on a simple principle: complex software should be beautiful, reliable, and intelligent.
+            Merqone was founded on a simple principle: complex software should be beautiful, reliable, and intelligent.
             We are a collective of researchers, engineers, and visionaries dedicated to solving the world's most
             demanding technical challenges.
           </p>
@@ -47,7 +47,7 @@ export default function AboutPage() {
           </div>
 
           <div className="bg-secondary/20 rounded-[3rem] p-12 border border-border/50 mb-24">
-            <h2 className="text-3xl font-serif mb-12 text-center">The Synaptive Standards</h2>
+            <h2 className="text-3xl font-serif mb-12 text-center">The Merqone Standards</h2>
             <div className="grid md:grid-cols-3 gap-8">
               {[
                 {
